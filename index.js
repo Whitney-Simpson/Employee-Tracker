@@ -215,7 +215,7 @@ const updateEmployee = async () => {
     message: "Select new role",
     choices: roleArray,
   }])
-    .then(({ id, role_id }) => {
+    .then(({ id, role_id }) => { 
       db.promise()
         .query("UPDATE employee SET ? WHERE id = ?", [{role_id}, id])
         .then((response) => {
