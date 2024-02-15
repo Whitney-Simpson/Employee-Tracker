@@ -27,4 +27,8 @@ An application to view and manage the departments, roles, and employees in the m
 ## GitHub Location
 https://github.com/Whitney-Simpson/Employee-Tracker.git
 ## Recording Location
+<<<<<<< HEAD
 <iframe src="https://drive.google.com/file/d/1wAcwZwcX9u86JWI5vNSH3xacNKBjfAGI/preview" width="640" height="480"></iframe>
+=======
+<iframe src="https://drive.google.com/file/d/1p6UVTZNx-wEzuPX754ARudjBGjm2y7IU/preview" width="640" height="480"></iframe>
+>>>>>>> dd415e6bcfdd41c9a786941b4d44ae829d0b7d8c
